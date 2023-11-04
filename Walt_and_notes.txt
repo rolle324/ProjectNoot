@@ -1,0 +1,58 @@
+you've been acting kind of sussy lately
+
+
+Main game
+
+-Penguin clicker game
+
+-Upgrades
+
+-Hireable assistants/slaves/workers
+
+-Main hub
+
+-The mine (where clicking takes place)
+
+-Character assets (sprites, animations)
+
+-Tilesets
+
+-Sounds (SFX, music)
+
+-Action bar (show progress on action in process)
+
+-Currency bag (includes money and mined ores)
+
+-Backgrounds (day ((night / snow effect)
+
+-UI (Show currency,)
+
+
+Extra features (bugs)
+
+UI quality of life (pic of penguin to show mental state, clock for the time,)
+
+-Day/night cycle 
+	-Calendar
+		-Events
+
+-
+-Gambling
+
+-Fishing
+
+-Black market upgrades
+
+-Worker salary system (decreases income for each worker hired, if money runs out, workers leave)
+
+-Stats
+
+-Skill tree (how to progress this) Capitalist route, illegal route, penguinist route
+
+-Endings (good/bad/weird/wtf? etc)
+
+-Penguin speech sounds
+
+
+
+-
